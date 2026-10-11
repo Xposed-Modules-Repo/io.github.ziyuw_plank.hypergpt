@@ -33,3 +33,5 @@ su -c 'setprop persist.sys.powergpt.keyguard xiaoai'   # 锁屏仍用小爱
 LSPosed 中停用（或卸载）→ 重启。
 
 源码与更新：<https://github.com/ziyuw-Plank/hyperGPT>
+
+<sub>Last updated: 2026-10-11</sub>
